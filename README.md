@@ -5,10 +5,11 @@ in https://arxiv.org/abs/2212.03826 (to be submitted in GRSL 2023).
 # Requirements: 
 ### - Pytorch 1.11.0 
 ###  * python 3.8.10
-###  + Semantic segmentation model (Smp): https://github.com/qubvel/segmentation_models.pytorch/releases#:~:text=Compare-,Segmentation%20Models%20%2D%20v0.2.1 
+###  + Semantic segmentation model (Smp V0.2.1)
+
 
 # Dataset:
-SPRS dataset: Potsdam IRRG and Vaihingen IRRG with size (512x512)
+SPRS dataset: Potsdam IRRG and Vaihingen IRRG with size (512\times512)
 
 
 # train:
